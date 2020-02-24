@@ -1,10 +1,9 @@
 # Redes Neuronales Artificiales Desde Cero
 
 [![GitHub license](https://img.shields.io/github/license/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/blob/master/LICENSE)
-[![GitHub repo size](https://img.shields.io/github/repo-size/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales.git)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales.git)
 [![GitHub issues](https://img.shields.io/github/issues/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/pull)
 
 Desde cero, teoría y práctica sobre redes neuronales artificiales. Este taller fue estrenado durante el DevDayAI Mérida, celebrado en Noviembre 2019.
 
