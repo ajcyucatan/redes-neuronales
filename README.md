@@ -34,7 +34,7 @@ Para sistemas basados en UNIX, las dependencias del taller pueden ser instaladas
 | Usando [`conda`](https://docs.conda.io/en/latest/) | `conda env create -f env.yml python=3.7` |
 
 
-## Ascription
+## License
 
 [![CC](http://forthebadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
 
