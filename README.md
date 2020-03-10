@@ -1,5 +1,6 @@
 # Redes Neuronales Artificiales Desde Cero
 
+[![CC-BY-NC-SA](https://img.shields.io/badge/CC-BY--NC--SA-lightgrey?style=popout-square)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
 [![License](https://img.shields.io/github/license/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/blob/master/LICENSE "License")
 [![Repo Size](https://img.shields.io/github/repo-size/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales.git "Repo Size")
 [![Slideshow](https://img.shields.io/badge/view-slides-important?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/blob/master/notes/slides.pdf "Slideshow")
@@ -30,11 +31,10 @@ Para sistemas basados en UNIX, las dependencias del taller pueden ser instaladas
 
 
 ## Autor
-> Rodolfo Escobar U.
+
+Rodolfo Escobar U.
 
 
 ## Licencia
-
-[![CC-BY-NC-SA](http://forthebadge.com/images/badges/cc-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
 
 El contenido de este repositorio está publicado bajo la licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0), y el código es libre y abierto, bajo los términos de [The MIT License](https://mit-license.org).
