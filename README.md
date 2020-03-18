@@ -1,10 +1,11 @@
 # Redes Neuronales Artificiales Desde Cero
 
-[![CC-BY-NC-SA](https://img.shields.io/badge/CC-BY--NC--SA-lightgrey?style=popout-square)](https://creativecommons.org/licenses/by-nc-sa/4.0 "CC BY-NC-SA 4.0")
 [![License](https://img.shields.io/github/license/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/blob/master/LICENSE "License")
 [![Repo Size](https://img.shields.io/github/repo-size/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales.git "Repo Size")
 [![Slideshow](https://img.shields.io/badge/view-slides-important?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/blob/master/notes/slides.pdf "Slideshow")
 [![Binder](https://img.shields.io/badge/launch-binder-9cf?style=popout-square)](https://mybinder.org/v2/gh/ajcyucatan/redes-neuronales/master "Binder")
+
+> [Rodolfo E. Escobar U.](https://github.com/rescurib) © 2019
 
 Este taller consiste en estudiar brevemente, desde cero, teoría y práctica sobre Redes Neuronales Artificiales. Contenido estrenado durante el DevDayAI Mérida, celebrado en Noviembre 2019.
 
@@ -16,23 +17,22 @@ Puedes ejecutar el material del taller en la nube o en tu misma computadora:
 
 ### En la nube
 
-¡Haz clic en la insignia de Binder! Luego sólo corre la primera celda que ejecuta `install.sh` para que se configure todo automáticamente *out-of-the-box*.
+¡Haz clic en la insignia de Binder! Luego ejecuta la siguiente celda para que se instalen las dependencias *out-of-the-box*:
+```python
+# Installing dependencies
+!find / -name requirements.txt -exec cat '{}' ';'
+!cat `find / -name requirements.txt` | xargs -n 1 pip install
+```
 
 
 ### En tu computadora
 
-Para sistemas basados en UNIX, las dependencias del taller pueden ser instaladas por tres maneras:
+Para sistemas basados en UNIX, las dependencias del taller pueden ser instaladas por dos maneras:
 
 | Opciones       | Comando       |
 |:--------------:|:-------------:|
-| Ejecutando `install.sh` | `bash install.sh` |
 | Usando [`pip`](https://pypi.org/project/pip) | `pip install -r requirements.txt` |
 | Usando [`conda`](https://docs.conda.io/en/latest/) | `conda env create -f env.yml python=3.7` |
-
-
-## Autor
-
-Rodolfo Escobar U.
 
 
 ## Licencia
