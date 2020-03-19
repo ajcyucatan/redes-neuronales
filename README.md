@@ -2,8 +2,8 @@
 
 [![License](https://img.shields.io/github/license/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/blob/master/LICENSE "License")
 [![Repo Size](https://img.shields.io/github/repo-size/ajcyucatan/redes-neuronales?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales.git "Repo Size")
-[![Slideshow](https://img.shields.io/badge/view-slides-important?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/blob/master/notes/slides.pdf "Slideshow")
-[![Binder](https://img.shields.io/badge/launch-binder-9cf?style=popout-square)](https://mybinder.org/v2/gh/ajcyucatan/redes-neuronales/master "Binder")
+[![Slideshow](https://img.shields.io/badge/view-slides-00d88e?style=popout-square)](https://github.com/ajcyucatan/redes-neuronales/blob/master/notes/slides.pdf "Slideshow")
+[![Binder](https://img.shields.io/badge/launch-binder-ff69b4?style=popout-square)](https://mybinder.org/v2/gh/ajcyucatan/redes-neuronales/master "Binder")
 
 > © 2019, [Rodolfo E. Escobar U.](https://github.com/rescurib)
 
